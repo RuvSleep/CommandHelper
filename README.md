@@ -2,12 +2,12 @@
 CommandHelper - is a very useful thing for quick code testing and more!
 
 # Example:
-## Code:
+### Code:
 ```
 CH::OUT('Hello!');
 ```
 
-## Result:
+### Result:
 ```
 <pre>
     Hello!
