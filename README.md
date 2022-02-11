@@ -14,3 +14,16 @@ CH::OUT('testing');1
     Hello!
 </pre>
 ```
+
+### Code:
+```
+require_once('commandhelper.php');
+CH::OUT('testing');1
+```
+
+### Result:
+```
+<pre>
+    Hello!
+</pre>
+```
