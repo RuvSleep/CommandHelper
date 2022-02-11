@@ -11,5 +11,5 @@ CH::OUT('Hello!');
 ```
 <pre>
     Hello!
-</pre
+</pre>
 ```
