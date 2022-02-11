@@ -1,11 +1,11 @@
 # CommandHelper
 CommandHelper - is a very useful thing for quick code testing and more!
 
-# Example:
+# Examples:
 ### Code:
 ```
 require_once('commandhelper.php');
-CH::OUT('testing');
+CH::OUT('testing');1
 ```
 
 ### Result:
