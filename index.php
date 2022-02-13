@@ -7,5 +7,5 @@ $array = [
         'el1' => 'hi'
     ]
 ];
-CH::ARRAY_TO_OBJECT($array);
+$array = CH::ARRAY_TO_OBJECT($array);
 CH::OUT($array);

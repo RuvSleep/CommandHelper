@@ -13,6 +13,7 @@ CH::OUT('testing');
     Hello!
 </pre>
 
+**--------------------------------------------------------**
 
 ### Code:
 ```
@@ -29,10 +30,10 @@ CH::OUT($array2);
 
 ### Result:
 <pre>
-    stdObject
-        'el' => 'hello', 
-        'el_array' => stdObject(
-            'el1' => 'hi'
-        ]
-    ];
+    stdClass Object (
+    [el] => hello
+    [el_array] => stdClass Object (
+            [el1] => hi
+        )
+    )
 </pre>
