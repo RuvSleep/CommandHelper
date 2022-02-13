@@ -25,7 +25,7 @@ class CH {
      * @param array $array array to convert
      * @return object
      */
-    public static function array_to_object($array) {
+    public static function ARRAY_TO_OBJECT($array) {
         return json_decode(json_encode($array, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
     }
     
