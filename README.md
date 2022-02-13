@@ -24,7 +24,7 @@ $array = [
                 'el1' => 'hi'
             ]
         ];
-$array2 = CH::ARRAY_TO_OBJECT('testing');
+$array2 = CH::ARRAY_TO_OBJECT($array);
 CH::OUT($array2);
 ```
 
